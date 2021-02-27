@@ -67,14 +67,14 @@ education:
 
 experiences:
     - role: Research Project Assistant for Data Science
-      time: January 2021 - Present
+      time: Jan 2021 - Present
       company: Under Dr.Deepanwita Datta
       details: |
         - Formulating pipelines to automate the process of data extraction.
         - Perform Exploratory Data Analysis on the extracted data to further apply machine learning and deep learning hypotheses.
 
     - role: Data Science Intern
-      time: November 2020 - February 2021
+      time: Nov 2020 - Feb 2021
       company: WISH Foundation India
       details: |
           - Data Cleaning & Handling missing values - contained the data within two standard deviations, removed unnecessary features using supervised feature selection techniques. 
@@ -82,7 +82,7 @@ experiences:
           - Built a deep learning model that recommends medical prescriptions based on both, the patient's information and the doctor's information.
 
     - role: Deep Learning Intern
-      time: June 2020 - August 2020
+      time: Jun 2020 - Aug 2020
       company: Ernst & Young
       details: |
           - Deployed end-to-end deep learning pipelines, including data collection, cleaning, annotation, and augmentation. 
