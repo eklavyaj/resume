@@ -68,6 +68,7 @@ education:
 experiences:
     - role: Research Project Assistant for Data Science
       time: Jan 2021 - Present
+      link: '#'
       company: Under Dr.Deepanwita Datta
       details: |
         - Formulating pipelines to automate the process of data extraction.
@@ -75,6 +76,7 @@ experiences:
 
     - role: Data Science Intern
       time: Nov 2020 - Feb 2021
+      link: 'https://share.streamlit.io/eklavyaj/medical-prescription-recommendation-system/app.py'
       company: WISH Foundation India
       details: |
           - Data Cleaning & Handling missing values - contained the data within two standard deviations, removed unnecessary features using supervised feature selection techniques. 
@@ -83,6 +85,7 @@ experiences:
 
     - role: Deep Learning Intern
       time: Jun 2020 - Aug 2020
+      link: '#'
       company: Ernst & Young
       details: |
           - Deployed end-to-end deep learning pipelines, including data collection, cleaning, annotation, and augmentation. 
