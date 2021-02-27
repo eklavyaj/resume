@@ -76,7 +76,7 @@ experiences:
 
     - role: Data Science Intern
       time: Nov 2020 - Feb 2021
-      link: 'https://share.streamlit.io/eklavyaj/medical-prescription-recommendation-system/app.py'
+      link: 'https://share.streamlit.io/eklavyaj/drug-prescription-recommender/app.py'
       company: WISH Foundation India
       details: |
           - Data Cleaning & Handling missing values - contained the data within two standard deviations, removed unnecessary features using supervised feature selection techniques. 
