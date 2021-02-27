@@ -12,109 +12,85 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: eklavya1012@gmail.com
+    # email: eklavya@iitg.ac.in
+    phone: +91 98999 54591
+    website: eklavyaj.github.io #do not add http://
+    linkedin: eklavyaj
+    github: eklavyaj
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@iEklavyaJain'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Elementary
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Football
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A curious mind with a passion for research in the fields of machine learning, 
+      data science, and their real life applications. My past experiences and projects have been a reflection of my interests in the above mentioned fields. 
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Maths & Computing
+      university: Indian Institute of Technology, Guwahati
+      time: 2018-2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Current CPI: 8.91
+
+    - degree: Senior Secondary
+      university: Amity International School
+      time: 2016-2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Boards Percentage: 95.6%
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Project Assistant for Data Science
+      time: January 2021 - Present
+      company: Under Dr.Deepanwita Datta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Formulating pipelines to automate the process of data extraction.
+        - Perform Exploratory Data Analysis on the extracted data to further apply machine learning and deep learning hypotheses.
+
+    - role: Data Science Intern
+      time: November 2020 - February 2021
+      company: WISH Foundation India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Data Cleaning & Handling missing values - contained the data within two standard deviations, removed unnecessary features using supervised feature selection techniques. 
+          - Formulating possible hypotheses from the healthcare dataset and testing the hypotheses with the help of machine learning and statistical tools.
+          - Built a deep learning model that recommends medical prescriptions based on both, the patient's information and the doctor's information.
+
+    - role: Deep Learning Intern
+      time: June 2020 - August 2020
+      company: Ernst & Young
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Deployed end-to-end deep learning pipelines, including data collection, cleaning, annotation, and augmentation. 
+          - Modeled a barcode decoding pipeline to localize and extract information from all the barcodes (QR/1D-barcode/Data Matrix) present in the sample document. 
+          - Developed a proof of concept project to recognize various brands' products kept on a shelf of any organized retail store. Extended the model to function in real-time.
+          - Built a custom pipeline for Eye-State Detection (open/closed/none) using facial landmarks prediction technique. Achieved accuracy of 95%.
+
+
 projects:
     title: Projects
     intro: >
@@ -142,49 +118,49 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
