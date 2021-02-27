@@ -94,30 +94,33 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      These are a few projects I have worked on in the past few years. 
+      Have a look.
+    assignments: 
+      - title: COVID 19 Dashboard
+        link: "https://datastudio.google.com/reporting/ffd663f2-927c-463e-a089-609ffc5d6c30"
+        tagline: |
+          - Created a dashboard using Google Data Studio, which updates every day and depicts statistics of Covid-19 in Rajasthan, Delhi, Uttar Pradesh, Assam, and Madhya Pradesh.
+          - Used LSTMs to predict the number of cases for the next 3-5 days.
+      
+      - title: Real Time Emotion Recogntion
+        link: "https://github.com/eklavyaj/Facial-Expression-Recognition"
+        tagline: |
+          - Built a custom Convolutional Neural Network to classify different human emotions based on their facial expressions. 
+          - The model was extended to function on real-time input. Achieved an accuracy of over 70%
 
-      - title: DevStudio
+      - title: Premier League Result Predictor
+        link: "https://share.streamlit.io/eklavyaj/pl-predictor/app.py"
+        tagline: |
+          - The model predicts the result at the full time given the home team, away team, and the match's status at half-time.
+          - Fitted the data using Random Forest Classifier. Created a streamlit app to deploy the model
+
+      - title: Zenith Fund
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        tagline: |
+          - Constructed an Index Fund which had a correlation of 0.963 with NIFTY Midcap 100. 
+          - Performed Fundamental Analysis to obtain fundamentally strong companies. 
+          - Used Markowitz Portfolio Theory to determine the efficient frontier and the weights of the shortlisted stocks.
 # publications:
 #     title: Publications
 #     intro: |
