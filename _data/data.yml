@@ -68,7 +68,7 @@ education:
 experiences:
     - role: Research Project Assistant for Data Science
       time: Jan 2021 - Present
-      link: '#'
+      link: 
       company: Under Dr.Deepanwita Datta
       details: |
         - Formulating pipelines to automate the process of data extraction.
@@ -85,7 +85,7 @@ experiences:
 
     - role: Deep Learning Intern
       time: Jun 2020 - Aug 2020
-      link: '#'
+      link: 
       company: Ernst & Young
       details: |
           - Deployed end-to-end deep learning pipelines, including data collection, cleaning, annotation, and augmentation. 
@@ -118,7 +118,7 @@ projects:
           - Fitted the data using Random Forest Classifier. Created a streamlit app to deploy the model
 
       - title: Zenith Fund
-        link: "#"
+        link: 
         tagline: |
           - Constructed an Index Fund which had a correlation of 0.963 with NIFTY Midcap 100. 
           - Performed Fundamental Analysis to obtain fundamentally strong companies. 
